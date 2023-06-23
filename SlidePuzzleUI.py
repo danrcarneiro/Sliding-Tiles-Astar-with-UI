@@ -36,7 +36,7 @@ if BOARDWIDTH == 3:
     NUMBEROFSCRAMBLES = 80
 else:
     LOADEDBOARD = [[ 5, 2, 9, 13],[ 8, 1, 14, 12],[ 6, 7, 10, 11],[ 3, 4, 15, BLANK]]	
-    NUMBEROFSCRAMBLES = 60    
+    NUMBEROFSCRAMBLES = 50    
 		
 
 #                 R    G    B
